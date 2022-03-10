@@ -8,3 +8,4 @@ resource "null_resource" "delay" {
 # more testing
 # enabled speculative plan
 # will this webhook work automatically?
+# looks like I need a manual run first.
